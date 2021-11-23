@@ -31,8 +31,15 @@
     color: rgb(66, 199, 177);
 }
 
-.fab{
-    font-size: 10px;
-    background-color: red;
-    color: red;
+i{  
+    font-size: 25px;
+    padding: 10px 15px;
+    margin: 0 5px;
+    border-radius: 50%;
+    border: 1px white solid;
+}
+
+.fa-google-plus-g{
+    font-size: 25px;
+    padding: 10px;
 }
