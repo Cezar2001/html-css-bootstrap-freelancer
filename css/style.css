@@ -32,14 +32,17 @@
 }
 
 i{  
-    font-size: 25px;
+    font-size: 15px;
     padding: 10px 15px;
-    margin: 0 5px;
+    margin: 0 3px;
     border-radius: 50%;
     border: 1px white solid;
 }
 
 .fa-google-plus-g{
-    font-size: 25px;
     padding: 10px;
+}
+
+.big{
+    height: 60px;
 }
