@@ -1,0 +1,38 @@
+.navbar{
+    height: 50px;
+    background-color: rgb(0, 0, 50);
+}
+
+.teal{
+    background-color: rgb(66, 199, 177);
+    color: white;
+}
+
+.img-small{
+    height: 150px;
+    width: 150px;
+}
+
+.img-border{
+    border-radius: 15px;
+}
+
+.light-blue{
+    background-color: rgb(50, 50, 87);
+    color: white;
+}
+
+.blue{
+    background-color: rgb(0, 0, 50);
+    color: white;
+}
+
+.green{
+    color: rgb(66, 199, 177);
+}
+
+.fab{
+    font-size: 10px;
+    background-color: red;
+    color: red;
+}
