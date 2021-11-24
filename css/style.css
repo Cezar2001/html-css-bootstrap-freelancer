@@ -1,6 +1,16 @@
-.navbar{
-    height: 50px;
-    background-color: rgb(0, 0, 50);
+.title-nav{
+    text-align: center;
+    width: 40%;
+}
+
+.menù{
+    width: 60%;
+    text-align: center;
+    padding-left: 300px;
+}
+
+ul > li{
+    padding: 0 10px;
 }
 
 .teal{
@@ -9,8 +19,13 @@
 }
 
 .img-small{
-    height: 150px;
-    width: 150px;
+    height: 250px;
+    width: 250px;
+}
+
+.star{
+    font-size: 30px;
+    width: 100%;
 }
 
 .img-border{
@@ -22,8 +37,8 @@
     color: white;
 }
 
-.blue{
-    background-color: rgb(0, 0, 50);
+.grey{
+    background-color: rgb(28,40,65);
     color: white;
 }
 
@@ -31,7 +46,11 @@
     color: rgb(66, 199, 177);
 }
 
-i{  
+.bottone{
+    padding: 10px;
+}
+
+.fab{  
     font-size: 15px;
     padding: 10px 15px;
     margin: 0 3px;
@@ -41,8 +60,4 @@ i{
 
 .fa-google-plus-g{
     padding: 10px;
-}
-
-.big{
-    height: 60px;
 }
